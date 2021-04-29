@@ -1,0 +1,202 @@
+[
+    {
+        "id": 1,
+        "name": "A.A. Nail Salon",
+        "pics": [
+            "https://xxx.oss-accelerate.aliyuncs.com/xxx",
+            "https://xxx.oss-accelerate.aliyuncs.com/xxx",
+            "https://xxx.oss-accelerate.aliyuncs.com/xxx",
+            "https://xxx.oss-accelerate.aliyuncs.com/xxx"
+        ],
+        "rate": 4.5,
+        "service": 4.6,
+        "env": 4.5,
+        "price": 4.4,
+        "sales": 107,
+        "distance": 0.8,
+        "available":"today",
+        "address":"1/F, 83 Wuhu St, Hung Hom",
+        "open":"9:00",
+        "close":"20:00",
+        "bookings":[
+            {
+                "id":1,
+                "title":"Valentine Nail service",
+                "booked":23,
+                "price":150,
+                "pic":"https://xxx.oss-accelerate.aliyuncs.com/xxx"
+            },
+            {
+                "id":2,
+                "title":"LUXURY Nail SPA package",
+                "booked":15,
+                "price":300,
+                "pic":"https://xxx.oss-accelerate.aliyuncs.com/xxx"
+            },
+            {
+                "id":3,
+                "title":"Happy Nail Holiday Sales",
+                "booked":21,
+                "price":230,
+                "pic":"https://xxx.oss-accelerate.aliyuncs.com/xxx"
+            },
+            {
+                "id":4,
+                "title":"Nail Art Service",
+                "booked":19,
+                "price":260,
+                "pic":"https://xxx.oss-accelerate.aliyuncs.com/xxx"
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "name": "Beauty Life",
+        "pics": [
+            "https://xxx.oss-accelerate.aliyuncs.com/xxx",
+            "https://xxx.oss-accelerate.aliyuncs.com/xxx",
+            "https://xxx.oss-accelerate.aliyuncs.com/xxx",
+            "https://xxx.oss-accelerate.aliyuncs.com/xxx"
+        ],
+        "rate": 4.9,
+        "service": 5.0,
+        "env": 4.8,
+        "price": 4.9,
+        "sales": 98,
+        "distance": 1.2,
+        "available":"from March 6" ,
+        "address":"1/F, 83 Wuhu St, Hung Hom",
+        "open":"9:30",
+        "close":"20:00",
+        "bookings":[
+            {
+                "id":1,
+                "title":"Valentine Nail service",
+                "booked":23,
+                "price":150,
+                "pic":"https://xxx.oss-accelerate.aliyuncs.com/xxx"
+            },
+            {
+                "id":2,
+                "title":"LUXURY Nail SPA package",
+                "booked":15,
+                "price":300,
+                "pic":"https://xxx.oss-accelerate.aliyuncs.com/xxx"
+            },
+            {
+                "id":3,
+                "title":"Happy Nail Holiday Sales",
+                "booked":21,
+                "price":230,
+                "pic":"https://xxx.oss-accelerate.aliyuncs.com/xxx"
+            },
+            {
+                "id":4,
+                "title":"Nail Art Service",
+                "booked":19,
+                "price":260,
+                "pic":"https://xxx.oss-accelerate.aliyuncs.com/xxx"
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "name": "La vie en rose",
+        "pics": [
+            "https://xxx.oss-accelerate.aliyuncs.com/xxx",
+            "https://xxx.oss-accelerate.aliyuncs.com/xxx",
+            "https://xxx.oss-accelerate.aliyuncs.com/xxx",
+            "https://xxx.oss-accelerate.aliyuncs.com/xxx"
+        ],
+        "rate": 4.3,
+        "sales": 189,
+        "service": 4.5,
+        "env": 4.3,
+        "price": 4.1,
+        "distance": 1.3,
+        "available":"tomorrow",
+        "address":"1/F, 83 Wuhu St, Hung Hom",
+        "open":"11:00",
+        "close":"21:00",
+        "bookings":[
+            {
+                "id":1,
+                "title":"Valentine Nail service",
+                "booked":23,
+                "price":150,
+                "pic":"https://xxx.oss-accelerate.aliyuncs.com/xxx"
+            },
+            {
+                "id":2,
+                "title":"LUXURY Nail SPA package",
+                "booked":15,
+                "price":300,
+                "pic":"https://xxx.oss-accelerate.aliyuncs.com/xxx"
+            },
+            {
+                "id":3,
+                "title":"Happy Nail Holiday Sales",
+                "booked":21,
+                "price":230,
+                "pic":"https://xxx.oss-accelerate.aliyuncs.com/xxx"
+            },
+            {
+                "id":4,
+                "title":"Nail Art Service",
+                "booked":19,
+                "price":260,
+                "pic":"https://xxx.oss-accelerate.aliyuncs.com/xxx"
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "name": "CJ Nail salon",
+        "pics": [
+            "https://xxx.oss-accelerate.aliyuncs.com/xxx",
+            "https://xxx.oss-accelerate.aliyuncs.com/xxx",
+            "https://xxx.oss-accelerate.aliyuncs.com/xxx",
+            "https://xxx.oss-accelerate.aliyuncs.com/xxx"
+        ],
+        "rate": 4.8,
+        "service": 4.9,
+        "env": 4.8,
+        "price": 4.7,
+        "sales": 120,
+        "distance": 1.0,
+        "available":"today",
+        "address":"1/F, 83 Wuhu St, Hung Hom",
+        "open":"10:00",
+        "close":"19:00",
+        "bookings":[
+            {
+                "id":1,
+                "title":"Valentine Nail service",
+                "booked":23,
+                "price":150,
+                "pic":"https://xxx.oss-accelerate.aliyuncs.com/xxx"
+            },
+            {
+                "id":2,
+                "title":"LUXURY Nail SPA package",
+                "booked":15,
+                "price":300,
+                "pic":"https://xxx.oss-accelerate.aliyuncs.com/xxx"
+            },
+            {
+                "id":3,
+                "title":"Happy Nail Holiday Sales",
+                "booked":21,
+                "price":230,
+                "pic":"https://xxx.oss-accelerate.aliyuncs.com/xxx"
+            },
+            {
+                "id":4,
+                "title":"Nail Art Service",
+                "booked":19,
+                "price":260,
+                "pic":"https://xxx.oss-accelerate.aliyuncs.com/xxx"
+            }
+        ]
+    }
+]

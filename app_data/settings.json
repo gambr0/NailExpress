@@ -1,0 +1,44 @@
+[
+    {
+        "id":1,
+        "name":"Settings",
+        "icon":"settings",
+        "type":"Feather"
+    },
+    {
+        "id":2,
+        "name":"Payment methods",
+        "icon":"credit-card",
+        "type":"Feather"
+    },
+    {
+        "id":3,
+        "name":"Coupons",
+        "icon":"award",
+        "type":"Feather"
+    },
+    {
+        "id":4,
+        "name":"Invite friends",
+        "icon":"gift",
+        "type":"Feather"
+    },
+    {
+        "id":5,
+        "name":"Get help",
+        "icon":"help-circle",
+        "type":"Feather"
+    },
+    {
+        "id":6,
+        "name":"Contact support",
+        "icon":"send",
+        "type":"Feather"
+    },
+    {
+        "id":7,
+        "name":"Terms of service",
+        "icon":"book",
+        "type":"Feather"
+    }
+]

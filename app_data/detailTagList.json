@@ -1,0 +1,14 @@
+[
+    {
+        "id":1,
+        "name":"Booking options"
+    },
+    {
+        "id":2,
+        "name":"Reviews"
+    },    
+    {
+        "id":3,
+        "name":"Introduction"
+    }
+]

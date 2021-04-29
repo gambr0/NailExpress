@@ -1,0 +1,28 @@
+{
+    "footer_btn": [
+        {
+          "id": 1,
+          "name": "Explore",
+          "btn_icon": "aperture",
+          "icon_type": "Feather"
+        },
+        {
+          "id": 2,
+          "name": "Beautips",
+          "btn_icon": "sun",
+          "icon_type": "Feather"
+        },
+        {
+          "id": 3,
+          "name": "Bookings",
+          "btn_icon": "file-text",
+          "icon_type": "Feather"
+        },
+        {
+          "id": 4,
+          "name": "Me",
+          "btn_icon": "user",
+          "icon_type": "Feather"
+        }
+    ]
+}

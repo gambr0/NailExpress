@@ -1,0 +1,53 @@
+[
+    {
+        "storeId":1,
+        "reviews":[
+            {
+                "user":"Sarah",
+                "ava":"https://xxx.oss-accelerate.aliyuncs.com/xxx",
+                "rate":5,
+                "reviewFor":"Valentine Nail service",
+                "date":"Feb 15 2020",
+                "content":"This nail art experience is soooo nice, Mandy is careful all the time! I will come again next time!!!",
+                "pics":[
+                    "https://xxx.oss-accelerate.aliyuncs.com/xxx",
+                    "https://xxx.oss-accelerate.aliyuncs.com/xxx"
+                ]
+            },
+            {
+                "user":"Megha",
+                "ava":"https://xxx.oss-accelerate.aliyuncs.com/xxx",
+                "rate":4,
+                "reviewFor":"Valentine Nail service",
+                "date":"Feb 14 2020",
+                "content":"This building is kind of hard to find ><… Toke me 10 mins to find the right place… But the service really good, they even provided us some snacks",
+                "pics":[
+                    "https://xxx.oss-accelerate.aliyuncs.com/xxx"
+                ]
+            },
+            {
+                "user":"Jolin",
+                "ava":"https://xxx.oss-accelerate.aliyuncs.com/xxx",
+                "rate":5,
+                "reviewFor":"LUXURY Nail SPA package",
+                "date":"Jan 20 2020",
+                "content":"Pretty good",
+                "pics":[
+                    "https://xxx.oss-accelerate.aliyuncs.com/xxx"
+                ]
+            },
+            {
+                "user":"Lena",
+                "ava":"https://xxx.oss-accelerate.aliyuncs.com/xxx",
+                "rate":5,
+                "reviewFor":"Nail Art Service",
+                "date":"Nov 14 2019",
+                "content":"I highly recommend this nail salon! The color and style are exactly what I want!!!",
+                "pics":[
+                    "https://xxx.oss-accelerate.aliyuncs.com/xxx"
+                ]
+            }
+
+        ]
+    }
+]

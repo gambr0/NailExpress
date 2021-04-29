@@ -1,0 +1,41 @@
+{
+    "stores": [
+      {
+        "id": 1,
+        "name": "A.A. Nail Salon",
+        "pic": "https://xxx.oss-accelerate.aliyuncs.com/xxx",
+        "rate": 4.5,
+        "sales": 107,
+        "distance": 0.8,
+        "available":"today"
+      },
+      {
+        "id": 2,
+        "name": "Beauty Life",
+        "pic": "https://xxx.oss-accelerate.aliyuncs.com/xxx",
+        "rate": 4.9,
+        "sales": 98,
+        "distance": 1.2,
+        "available":"from March 6" 
+      },
+      {
+        "id": 3,
+        "name": "La vie en rose",
+        "pic": "https://xxx.oss-accelerate.aliyuncs.com/xxx",
+        "rate": 4.3,
+        "sales": 189,
+        "distance": 1.3,
+        "available":"tomorrow"
+      },
+      {
+        "id": 4,
+        "name": "CJ Nail salon",
+        "pic": "https://xxx.oss-accelerate.aliyuncs.com/xxx",
+        "rate": 4.8,
+        "sales": 120,
+        "distance": 1.0,
+        "available":"today"
+      }
+      
+    ]
+  }
